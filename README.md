@@ -1,3 +1,3 @@
 # hhrogersii.github.io
-My project sites
-This is the Readme
+The Github.io Personal Page for hhrogersii
+View online: [arg¡eBarg!e](http://hhrogersii.github.io/)
